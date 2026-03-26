@@ -1,0 +1,172 @@
+transceiver,mode,Margin_dB,Baudrate_Gbaud,Roll_off,Tx_OSNR_dB,Min_OSNR_dB
+CableLabs P2PCO,Maximize capacity,,,,,
+CableLabs P2PCO,Maximize capacity incl. penalties,,,,,
+CableLabs P2PCO,"PHYv1.0, 100 Gbit/s, DP-QPSK",,27.95,,35,14.5
+CableLabs P2PCO,"PHYv2.0, 200 Gbit/s, DP-QPSK",,63.13946792,,35,15.5
+Cisco CFP2-DCO,Maximize capacity,,,,,
+Cisco CFP2-DCO,"100 Gbit/s, DP-QPSK",,31.379,,37,12.3
+Cisco CFP2-DCO,"200 Gbit/s, DP-8QAM",,41.84,,32.3,20
+Cisco CFP2-DCO,"200 Gbit/s, DP-16QAM",,31.379,,34.3,21.5
+Cisco NCS 1004,Maximize capacity,,,,,
+Cisco NCS 1004,Maximize capacity incl. penalties,,,,,
+Cisco NCS 1004,"100 Gbit/s, DP-BPSK",,69.4351,,,11
+Cisco NCS 1004,"200 Gbit/s, DP-QPSK",,69.4351,,,14.1
+Cisco NCS 1004,"300 Gbit/s, DP-8QAM",,69.4351,,,18.5
+Cisco NCS 1004,"400 Gbit/s, DP-16QAM",,69.4351,,,22
+Cisco NCS 1004,"500 Gbit/s, DP-32QAM",,69.4351,,,27.3
+Cisco NCS 1004,"600 Gbit/s, DP-32QAM-64QAM hybrid",,71.8485,,,32.5
+Cisco NCS 2000 400 Gbps XPonder,Maximize capacity,,,,,
+Cisco NCS 2000 400 Gbps XPonder,"100 Gbit/s, DP-QPSK",,34.16,,40,10.5
+Cisco NCS 2000 400 Gbps XPonder,"150 Gbit/s, DP-8QAM",,34.16,,40,15.5
+Cisco NCS 2000 400 Gbps XPonder,"200 Gbit/s, DP-16QAM",,34.16,,40,18.5
+Cisco QSFD-DD QDD-400G-ZRP-S,Maximize capacity,,,,,
+Cisco QSFD-DD QDD-400G-ZRP-S,"100 Gbit/s, DP-QPSK",,34.16,,40,10.5
+Cisco QSFD-DD QDD-400G-ZRP-S,"150 Gbit/s, DP-8QAM",,34.16,,40,15.5
+Cisco QSFD-DD QDD-400G-ZRP-S,"200 Gbit/s, DP-16QAM",,34.16,,40,18.5
+IEEE,Maximize capacity,,,,,
+IEEE,100GBASE-ZR,,27.9525,,35,19.5
+Juniper CFP2-DCO-T-WDM-HG,Maximize capacity,,,,,
+Juniper CFP2-DCO-T-WDM-HG,Maximize capacity incl. penalties,,,,,
+Juniper CFP2-DCO-T-WDM-HG,OpenROADM 5.0 100G,,31.57,0.15,38,11.8
+Juniper CFP2-DCO-T-WDM-HG,OpenROADM 5.0 200G DP-16QAM,,31.57,0.15,38,20.5
+Juniper CFP2-DCO-T-WDM-HG,OpenROADM 5.0 200G DP-QPSK,,63.1,0.15,38,14.8
+Juniper CFP2-DCO-T-WDM-HG,OpenROADM 5.0 300G,,63.1,0.15,38,20.5
+Juniper CFP2-DCO-T-WDM-HG,OpenROADM 5.0 400G,,63.1,0.15,38,23.5
+Juniper JCO800-QDD-ZR-M-HP,Maximize capacity,,,,,
+Juniper JCO800-QDD-ZR-M-HP,"100 Gbit/s, DP-QPSK",,34.16,,40,10.5
+Juniper JCO800-QDD-ZR-M-HP,"150 Gbit/s, DP-8QAM",,34.16,,40,15.5
+Juniper JCO800-QDD-ZR-M-HP,"200 Gbit/s, DP-16QAM",,34.16,,40,18.5
+Juniper OpenZR+ JCO400-QDD-ZR-M,Maximize capacity,,,,,
+Juniper OpenZR+ JCO400-QDD-ZR-M,Maximize capacity incl. penalties,,,,,
+Juniper OpenZR+ JCO400-QDD-ZR-M,"400 Gbit/s, 60.14 Gbaud, DP-16QAM",,60.14,0.15,43,24
+Juniper OpenZR+ JCO400-QDD-ZR-M,"300 Gbit/s, 60.14 Gbaud, DP-8QAM",,60.14,0.15,43,21
+Juniper OpenZR+ JCO400-QDD-ZR-M,"200 Gbit/s, 60.14 Gbaud, DP-QPSK",,60.14,0.15,43,16
+Juniper OpenZR+ JCO400-QDD-ZR-M,"100 Gbit/s, 30.07 Gbaud, DP-QPSK",,30.07,0.15,43,12.5
+Juniper OpenZR+ JCO400-QDD-ZR-M-HP,Maximize capacity,,,,,
+Juniper OpenZR+ JCO400-QDD-ZR-M-HP,Maximize capacity incl. penalties,,,,,
+Juniper OpenZR+ JCO400-QDD-ZR-M-HP,"400 Gbit/s, 60.14 Gbaud, DP-16QAM",,60.14,0.15,42,23.5
+Juniper OpenZR+ JCO400-QDD-ZR-M-HP,"300 Gbit/s, 60.14 Gbaud, DP-8QAM",,60.14,0.15,42,20
+Juniper OpenZR+ JCO400-QDD-ZR-M-HP,"200 Gbit/s, 60.14 Gbaud, DP-QPSK",,60.14,0.15,42,15
+Juniper OpenZR+ JCO400-QDD-ZR-M-HP,"100 Gbit/s, 30.07 Gbaud, DP-QPSK",,30.07,0.15,42,12
+Juniper OpenZR+ QDD-400G-ZR-M,Maximize capacity,,,,,
+Juniper OpenZR+ QDD-400G-ZR-M,Maximize capacity incl. penalties,,,,,
+Juniper OpenZR+ QDD-400G-ZR-M,"400 Gbit/s, 60.14 Gbaud, DP-16QAM",,60.14,0.2,42,24
+Juniper OpenZR+ QDD-400G-ZR-M,"300 Gbit/s, 60.14 Gbaud, DP-8QAM",,60.14,0.2,42,21
+Juniper OpenZR+ QDD-400G-ZR-M,"200 Gbit/s, 60.14 Gbaud, DP-QPSK",,60.14,0.2,42,16
+Juniper OpenZR+ QDD-400G-ZR-M,"100 Gbit/s, 30.07 Gbaud, DP-QPSK",,30.07,0.2,42,12.5
+Juniper OpenZR+ QDD-400G-ZR-M-HP,Maximize capacity incl. penalties,,,,,
+Juniper OpenZR+ QDD-400G-ZR-M-HP,OIF 400ZR,,59.84375,,38,26
+Juniper OpenZR+ QDD-400G-ZR-M-HP,OpenZR+ 100G,,30.069274,,38,11.5
+Juniper OpenZR+ QDD-400G-ZR-M-HP,200G DP-16QAM,,30.069274,,38,19.3
+Juniper OpenZR+ QDD-400G-ZR-M-HP,OpenZR+ 200G,,60.138547,,38,14.8
+Juniper OpenZR+ QDD-400G-ZR-M-HP,OpenZR+ 300G,,60.138547,,38,20.3
+Juniper OpenZR+ QDD-400G-ZR-M-HP,OpenZR+ 400G,,60.138547,,38,23.4
+Juniper QSFP-100G-ZR,Maximize capacity,,,,,
+Juniper QSFP-100G-ZR,100GBASE-ZR,,27.9525,,35,19.5
+Juniper QSFP-100G-ZR-HP,Maximize capacity incl. penalties,,,,,
+Juniper QSFP-100G-ZR-HP,OIF 400ZR,,59.84375,,38,26
+Juniper QSFP-100G-ZR-HP,OpenZR+ 100G,,30.069274,,38,11.5
+Juniper QSFP-100G-ZR-HP,200G DP-16QAM,,30.069274,,38,19.3
+Juniper QSFP-100G-ZR-HP,OpenZR+ 200G,,60.138547,,38,14.8
+Juniper QSFP-100G-ZR-HP,OpenZR+ 300G,,60.138547,,38,20.3
+Juniper QSFP-100G-ZR-HP,OpenZR+ 400G,,60.138547,,38,23.4
+OIF 400ZR,Maximize capacity,,,,,
+OIF 400ZR,Maximize capacity incl. penalties,,,,,
+OIF 400ZR,"400 Gbit/s, DP-16QAM",,59.84375,,34,26
+OpenROADM MSA ver. 4.0,Maximize capacity,,,,,
+OpenROADM MSA ver. 4.0,Maximize capacity incl. penalties,,,,,
+OpenROADM MSA ver. 4.0,"100 Gbit/s, 27.95 Gbaud, DP-QPSK",,27.95,,33,17
+OpenROADM MSA ver. 4.0,"100 Gbit/s, 31.57 Gbaud, DP-QPSK",,31.57,0.15,35,12
+OpenROADM MSA ver. 4.0,"200 Gbit/s, DP-QPSK",,63.1,0.15,36,17
+OpenROADM MSA ver. 4.0,"300 Gbit/s, DP-8QAM",,63.1,0.15,36,21
+OpenROADM MSA ver. 4.0,"400 Gbit/s, DP-16QAM",,63.1,0.15,36,24
+OpenROADM MSA ver. 5.0,Maximize capacity,,,,,
+OpenROADM MSA ver. 5.0,Maximize capacity incl. penalties,,,,,
+OpenROADM MSA ver. 5.0,"400 Gbit/s, 60.14 Gbaud, DP-16QAM",,60.14,0.15,43,24
+OpenROADM MSA ver. 5.0,"300 Gbit/s, 60.14 Gbaud, DP-8QAM",,60.14,0.15,43,21
+OpenROADM MSA ver. 5.0,"200 Gbit/s, 60.14 Gbaud, DP-QPSK",,60.14,0.15,43,16
+OpenROADM MSA ver. 5.0,"100 Gbit/s, 30.07 Gbaud, DP-QPSK",,30.07,0.15,43,12.5
+OpenZR+,Maximize capacity,,,,,
+OpenZR+,Maximize capacity incl. penalties,,,,,
+OpenZR+,"400 Gbit/s, 60.14 Gbaud, DP-16QAM",,60.14,0.15,43,24
+OpenZR+,"300 Gbit/s, 60.14 Gbaud, DP-8QAM",,60.14,0.15,43,21
+OpenZR+,"200 Gbit/s, 60.14 Gbaud, DP-QPSK",,60.14,0.15,43,16
+OpenZR+,"100 Gbit/s, 30.07 Gbaud, DP-QPSK",,30.07,0.15,43,12.5
+Smartoptics QSFP28 TQ2025-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP28 TQ2025-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP28 TQ2025-TUNC-SO,"400 Gbit/s, 60.14 Gbaud, DP-16QAM",,60.14,0.15,43,24
+Smartoptics QSFP28 TQ2025-TUNC-SO,"300 Gbit/s, 60.14 Gbaud, DP-8QAM",,60.14,0.15,43,21
+Smartoptics QSFP28 TQ2025-TUNC-SO,"200 Gbit/s, 60.14 Gbaud, DP-QPSK",,60.14,0.15,43,16
+Smartoptics QSFP28 TQ2025-TUNC-SO,"100 Gbit/s, 30.07 Gbaud, DP-QPSK",,30.07,0.15,43,12.5
+Smartoptics QSFP28 TQ2028-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP28 TQ2028-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP28 TQ2028-TUNC-SO,100GBASE-ZR,,27.95,,40,16.5
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,400G PCS-108,,108.5,,37,18.7
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,400G PCS-87,,87.4,,37,19.5
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,400G PCS-75,,75,,37,20.6
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,400G PCS-66,,65.7,,37,21.2
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,600G PCS-131,,131.2,,37,21.3
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,800G PCS-131,,131.3,,37,24.7
+Smartoptics QSFP-DD SO-TQSFP-DD-4CC-ZR,OpenROADM 800G PCS-131,,131.3370562,,37,25.4
+Smartoptics QSFP-DD SO-TQSFPDD4CCZRP,Maximize capacity,,,,,
+Smartoptics QSFP-DD SO-TQSFPDD4CCZRP,"100 Gbit/s, DP-QPSK",,34.16,,40,10.5
+Smartoptics QSFP-DD SO-TQSFPDD4CCZRP,"150 Gbit/s, DP-8QAM",,34.16,,40,15.5
+Smartoptics QSFP-DD SO-TQSFPDD4CCZRP,"200 Gbit/s, DP-16QAM",,34.16,,40,18.5
+Smartoptics QSFP-DD TD8005-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TD8005-TUNC-SO,OIF 400ZR,,59.84375,,38,26
+Smartoptics QSFP-DD TD8005-TUNC-SO,OpenZR+ 100G,,30.069274,,38,11.5
+Smartoptics QSFP-DD TD8005-TUNC-SO,200G DP-16QAM,,30.069274,,38,19.3
+Smartoptics QSFP-DD TD8005-TUNC-SO,OpenZR+ 200G,,60.138547,,38,14.8
+Smartoptics QSFP-DD TD8005-TUNC-SO,OpenZR+ 300G,,60.138547,,38,20.3
+Smartoptics QSFP-DD TD8005-TUNC-SO,OpenZR+ 400G,,60.138547,,38,23.4
+Smartoptics QSFP-DD TD8006-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP-DD TD8006-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TD8006-TUNC-SO,400G PCS-131,,131.3,,37,18
+Smartoptics QSFP-DD TD8006-TUNC-SO,400G PCS-108,,108.5,,37,18.7
+Smartoptics QSFP-DD TD8006-TUNC-SO,400G PCS-87,,87.4,,37,19.5
+Smartoptics QSFP-DD TD8006-TUNC-SO,400G PCS-75,,75,,37,20.6
+Smartoptics QSFP-DD TD8006-TUNC-SO,400G PCS-66,,65.7,,37,21.2
+Smartoptics QSFP-DD TD8006-TUNC-SO,600G PCS-131,,131.2,,37,21.3
+Smartoptics QSFP-DD TD8006-TUNC-SO,800G PCS-131,,131.3,,37,24.7
+Smartoptics QSFP-DD TD8006-TUNC-SO,OpenROADM 800G PCS-131,,131.3370562,,37,25.4
+Smartoptics QSFP-DD TQD011-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP-DD TQD011-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TQD011-TUNC-SO,OpenZR+ 100G,,30.069274,,34,15.5
+Smartoptics QSFP-DD TQD013-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP-DD TQD013-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TQD013-TUNC-SO,OIF 400ZR,,59.84375,,38,26
+Smartoptics QSFP-DD TQD013-TUNC-SO,OpenZR+ 100G,,30.069274,,38,11.5
+Smartoptics QSFP-DD TQD013-TUNC-SO,200G DP-16QAM,,30.069274,,38,19.3
+Smartoptics QSFP-DD TQD013-TUNC-SO,OpenZR+ 200G,,60.138547,,38,14.8
+Smartoptics QSFP-DD TQD013-TUNC-SO,OpenZR+ 300G,,60.138547,,38,20.3
+Smartoptics QSFP-DD TQD013-TUNC-SO,OpenZR+ 400G,,60.138547,,38,23.4
+Smartoptics QSFP-DD TQD014-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP-DD TQD014-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TQD014-TUNC-SO,OpenZR+ 100G,,30.069274,,43,12
+Smartoptics QSFP-DD TQD014-TUNC-SO,OpenZR+ 200G,,60.138547,,43,15
+Smartoptics QSFP-DD TQD014-TUNC-SO,OpenZR+ 300G,,60.138547,,43,20
+Smartoptics QSFP-DD TQD014-TUNC-SO,OpenZR+ 400G,,60.138547,,43,23.5
+Smartoptics QSFP-DD TQD017-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP-DD TQD017-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TQD017-TUNC-SO,OpenROADM 5.0 100G,,31.57,0.15,38,11.8
+Smartoptics QSFP-DD TQD017-TUNC-SO,OpenROADM 5.0 200G DP-16QAM,,31.57,0.15,38,20.5
+Smartoptics QSFP-DD TQD017-TUNC-SO,OpenROADM 5.0 200G DP-QPSK,,63.1,0.15,38,14.8
+Smartoptics QSFP-DD TQD017-TUNC-SO,OpenROADM 5.0 300G,,63.1,0.15,38,20.5
+Smartoptics QSFP-DD TQD017-TUNC-SO,OpenROADM 5.0 400G,,63.1,0.15,38,23.5
+Smartoptics QSFP-DD TQD029-TUNC-SO,Maximize capacity,,,,,
+Smartoptics QSFP-DD TQD029-TUNC-SO,Maximize capacity incl. penalties,,,,,
+Smartoptics QSFP-DD TQD029-TUNC-SO,OpenROADM 400G DP-QPSK,,118.2033506,,37,17.9
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-98,,97.9,,37,19.2
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-87,,87.4,,37,19.5
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-75,,75,,37,21.2
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-66,,65.7,,37,20.6
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-101 OTN,,100.8,,37,19.7
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-87 OTN,,87.3,,37,20.1
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-79 OTN,,78.9,,37,20.5
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G PCS-69 OTN,,69.1,,37,21.5
+Smartoptics QSFP-DD TQD029-TUNC-SO,400G DP-16QAM,,60.138547,,37,22.9
+Smartoptics QSFP-DD TQD029-TUNC-SO,OpenZR+ 400G DP-16QAM,,60.138547,,37,23.1
+Voyager,Maximize capacity,,,,,
+Voyager,"100 Gbit/s, DP-QPSK",,34.16,,40,10.5
+Voyager,"150 Gbit/s, DP-8QAM",,34.16,,40,15.5
+Voyager,"200 Gbit/s, DP-16QAM",,34.16,,40,18.5
